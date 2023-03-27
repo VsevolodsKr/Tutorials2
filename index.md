@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Vsevolods Kronbergs 2PT-1
 ---
 
